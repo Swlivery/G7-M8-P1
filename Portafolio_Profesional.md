@@ -16,7 +16,7 @@ He seleccionado **GitHub** como plataforma para mi portafolio por las siguientes
 
 ## 2. Análisis de Portafolio Existente
 
-Ejemplo analizado: [https://github.com/bradtraversy/modern-portfolio](https://github.com/bradtraversy/modern-portfolio)
+Ejemplo analizado: [https://github.com/Swlivery/G17---M7-D1](https://github.com/Swlivery/G17---M7-D1)
 
 **Características positivas:**
 1. Diseño limpio y profesional
@@ -71,10 +71,10 @@ He seleccionado el **Proyecto Final del Módulo 7 (G17-M7-P2)** como ejemplo de 
 ## 4. Perfil Profesional
 
 **¿Quién soy?**
-[Tu nombre] - Desarrollador Web Full Stack apasionado por crear soluciones digitales innovadoras.
+Marco - Desarrollador Web Full Stack apasionado por crear soluciones digitales innovadoras.
 
 **¿De dónde soy?**
-[Tu ciudad y país]
+Santiago - Chile
 
 **¿A qué me dedico?**
 Desarrollo web, especializándome en crear soluciones digitales innovadoras y funcionales.
@@ -90,9 +90,9 @@ Desarrollo web, especializándome en crear soluciones digitales innovadoras y fu
 - Capacidad de aprendizaje continuo
 
 **Contacto**
-- Email: [tu.email@ejemplo.com]
-- GitHub: [tu-perfil-github]
-- LinkedIn: [tu-perfil-linkedin]
+- Email: [anubis@swlivery.cl]
+- GitHub: [(https://github.com/Swlivery)]
+- LinkedIn: [perfil-linkedin]
 
 ## 5. Buenas Prácticas Implementadas
 
