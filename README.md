@@ -1,10 +1,10 @@
 # Portafolio Profesional - Marco Acevedo
 
-![Portfolio Preview](assets/portada.jpg)
+![Portafolio Preview](assets/portada.jpg)
 
 ## 🚀 Descripción del Proyecto
 
-Portfolio web personal desarrollado como parte del Módulo 8 del bootcamp de Desarrollo Full Stack. Este proyecto muestra mis habilidades, proyectos y experiencia en el desarrollo web.
+Portafolio web personal desarrollado como parte del Módulo 8 del bootcamp de Desarrollo Full Stack. Este proyecto muestra mis habilidades, proyectos y experiencia en el desarrollo web.
 
 ## 🛠️ Tecnologías Utilizadas
 
