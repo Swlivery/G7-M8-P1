@@ -1,4 +1,4 @@
-# Portfolio Profesional - Marco Acevedo
+# Portafolio Profesional - Marco Acevedo
 
 ![Portfolio Preview](assets/portada.jpg)
 
