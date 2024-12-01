@@ -55,6 +55,12 @@ Portafolio web personal desarrollado como parte del Módulo 8 del bootcamp de De
 - [Sistema de Gestión](https://github.com/Swlivery/G17-M7-D4)
 - [Funcionalidades Avanzadas](https://github.com/Swlivery/G17---M7-D2)
 
+## 🌐 GitHub Pages
+
+Este portfolio está desplegado en GitHub Pages. Puedes verlo en vivo aquí:
+[https://swlivery.github.io/G7-M8-P1/](https://swlivery.github.io/G7-M8-P1//)
+
+
 ## 💻 Instalación y Uso
 
 1. Clona el repositorio:
