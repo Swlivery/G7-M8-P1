@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo">Portfolio</div>
+            <ul class="nav-links">
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#sobre-mi">Sobre Mí</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <div class="profile-image">
+                <img src="assets/portada.jpg" alt="Marco Acevedo">
+            </div>
+            <h1>¡Hola! Soy Marco</h1>
+            <p>Desarrollador Web Full Stack</p>
+            <a href="#contacto" class="cta-button">Contáctame</a>
+        </div>
+    </section>
+
+    <section id="sobre-mi" class="about">
+        <h2>Sobre Mí</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <h3>¿Quién soy?</h3>
+                <p>Marco Acevedo - Desarrollador Web Full Stack</p>
+                
+                <h3>¿De dónde soy?</h3>
+                <p>Santiago - Chile </p>
+                
+                <h3>¿A qué me dedico?</h3>
+                <p>Me dedico al desarrollo web, especializándome en crear soluciones digitales innovadoras y funcionales.</p>
+                
+                <h3>Formación</h3>
+                <p>Estudiante de Desarrollo Full Stack en Desafío Latam</p>
+                
+                <h3>¿Por qué contratarme?</h3>
+                <p>Soy un desarrollador apasionado por crear soluciones web efectivas y modernas. Mi formación en Desafío Latam me ha proporcionado una sólida base en tecnologías actuales y mejores prácticas de desarrollo.</p>
+            </div>
+            <div class="skills">
+                <h3>Habilidades Técnicas</h3>
+                <div class="skill-tags">
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>JavaScript</span>
+                    <span>React</span>
+                    <span>Node.js</span>
+                    <span>Git</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="proyectos" class="projects">
+        <h2>Mis Proyectos</h2>
+        <div class="project-grid">
+            <div class="project-card">
+                <img src="assets/proyecto-m7-p2.jpg" alt="Proyecto Final M7">
+                <h3>Proyecto Final M7</h3>
+                <p>Proyecto final del módulo 7 implementando tecnologías web avanzadas y mejores prácticas de desarrollo.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Swlivery/G17-M7-P2" target="_blank">Ver en GitHub</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <img src="assets/proyecto-m7-d3.jpg" alt="Swlivery Delivery App">
+                <h3>Delivery App</h3>
+                <p>Aplicación de entrega con funcionalidades avanzadas y sistema de gestión de pedidos.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Swlivery/Swlivery-G17---M7-D3" target="_blank">Ver en GitHub</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <img src="assets/proyecto-m7-d1.jpg" alt="Proyecto Base">
+                <h3>Proyecto Inicial M7</h3>
+                <p>Implementación inicial del proyecto con funcionalidades básicas de entrega.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Swlivery/G17---M7-D1" target="_blank">Ver en GitHub</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <img src="assets/proyecto-m7-d4.jpg" alt="Sistema de Gestión">
+                <h3>Sistema de Gestión </h3>
+                <p>Sistema avanzado de gestión para la plataforma de entregas .</p>
+                <div class="project-links">
+                    <a href="https://github.com/Swlivery/G17-M7-D4" target="_blank">Ver en GitHub</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <img src="assets/proyecto-m7-d2.jpg" alt="Funcionalidades Avanzadas">
+                <h3>Funcionalidades Avanzadas</h3>
+                <p>Implementación de características avanzadas para la plataforma .</p>
+                <div class="project-links">
+                    <a href="https://github.com/Swlivery/G17---M7-D2" target="_blank">Ver en GitHub</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contacto" class="contact">
+        <h2>Contacto</h2>
+        <div class="contact-content">
+            <div class="contact-info">
+                <p><i class="fas fa-envelope"></i> email@ejemplo.com</p>
+                <p><i class="fab fa-github"></i> <a href="[perfil-github]" target="_blank">GitHub</a></p>
+                <p><i class="fab fa-linkedin"></i> <a href="[perfil-linkedin]" target="_blank">LinkedIn</a></p>
+            </div>
+            <form id="contact-form">
+                <input type="text" placeholder="Nombre" required>
+                <input type="email" placeholder="Email" required>
+                <textarea placeholder="Mensaje" required></textarea>
+                <button type="submit">Enviar Mensaje</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 [M3A]. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
